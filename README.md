@@ -10,3 +10,7 @@ This is a to-do list manager that manages all your tasks efficiently.
 - Mark tasks as completed.
 - Remove tasks.
 - Implement a web-based UI.
+
+## License
+This project is licensed under the MIT License. See `LICENSE` for details.
+
