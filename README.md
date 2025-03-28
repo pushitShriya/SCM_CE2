@@ -10,3 +10,10 @@ This is a to-do list manager that manages all your tasks efficiently.
 - Mark tasks as completed.
 - Remove tasks.
 - Implement a web-based UI.
+
+## How to Contribute
+1. Fork the repository.
+2. Clone your fork.
+3. Create a new branch for your feature.
+4. Make changes and commit them.
+5. Open a pull request.
